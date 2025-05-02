@@ -311,6 +311,7 @@ constexpr const char* const kManualInterfaces[] = {
   nullptr,
 };
 
+//
 constexpr const char* const kDownstreamManualInterfaces[] = {
     "VirtualCameraService",
 };
